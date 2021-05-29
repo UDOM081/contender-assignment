@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main {
+    background-color: rgb(230, 244, 255);
+}
+.btn-login {
+    border-radius: 2rem;
+}
+/* .search {
+    background-color: white;
+    padding-top: 1%;
+    height: 5%;
+    width: 30%;
+    margin-left: 20%;
+} */
+.nav-link:hover {
+    border-bottom: 3px solid blue ;  
+}
+.fa-search {
+    border: none;
+}
+.fa-heart {
+    margin-top: 1rem;
+    margin-left: 12rem;
+    color: rgb(135, 135, 226);
+}
+/* .heart {
+    color: black;
+    background-color: transparent;
+} */
+.img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+.single-team-member {
+    margin-top: 2rem;
+    background-color: white;
+    border-radius: 5px;
+    width: 260px;
+    /* height: 300px; */
+}
+.fa-star {
+    color: yellow;
+}
